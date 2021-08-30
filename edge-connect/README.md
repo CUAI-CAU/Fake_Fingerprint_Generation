@@ -16,7 +16,7 @@ We use pre-trained Inpaint model trained with [CelebA](http://mmlab.ie.cuhk.edu.
 ### Mask
 ![mask](./examples/Fingerprint/Inpaint_mask.png)
 
-### Edge
+### Fingerprint Edge
 ![edge](./examples/Fingerprint/Inpaint_edge.png)
 
 ### Inpainting Result
