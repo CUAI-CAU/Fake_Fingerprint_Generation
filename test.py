@@ -10,9 +10,9 @@ for k in result.keys():
     for t in tip:
         img = t[0]
         # print(tip)
-        
+
 
 
         cv2.imshow("tip", img)
         cv2.waitKey(0)
-    
+        cv2.destroyAllWindows()
