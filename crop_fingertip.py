@@ -91,6 +91,7 @@ def get_fingertip(base_dir, save_dir=None):
                 try :
                     result[name].append((tip, top_left, down_right))
                 except:
+                    print(result)
                     result[name] = [(tip, top_left, down_right)]
     return result
 
