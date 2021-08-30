@@ -52,6 +52,8 @@ def main():
     else:
         images = {base_dir.split('/')[-1]: cv2.imread(base_dir)}
     for name, image in images.items():
+
+        print(name, image.shape)
     # Convert the BGR image to RGB, flip the image around y-axis for correct 
     # handedness output and process it with MediaPipe Hands.
 
