@@ -66,7 +66,7 @@ def gabor_kernel(period, orientation):
     f -= f.mean()
     return f
 
-def Enhancement(fingerprint):
+def Enhancement(fingerprint, mask):
     # Calculate the local gradient (using Sobel filters)
     gx, gy = cv2.Sobel(fingerprint, cv2.CV_32F, 1, 0), cv2.Sobel(fingerprint, cv2.CV_32F, 0, 1)
     
