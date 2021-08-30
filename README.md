@@ -11,7 +11,7 @@
 
 ## 팀원 정보
 
-[팀원정보](https://www.notion.so/1c0ad1419f7b4b60bbc6c8f67aab90d1)
+[팀원정보](https://github.com/CUAI-CAU/Fake_Fingerprint_Generation/tree/main/MD/팀원정보.md)
 
 # 진행상황
 
