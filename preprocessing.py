@@ -11,7 +11,7 @@ import math
 def get_thresh(img, ratio=1):
     w, h, _ = img.shape
     cx, cy = int(w/2), int(h/2)
-    center = img[cx - 30:cx+30, cy-30: cy+30, :]
+    center = img[cx - 15:cx+15, cy-15: cy+15, :]
 
     upper = np.array(np.clip(center.max(axis=0).max(axis=0) * (2-ratio), 0, 255), dtype=np.uint8)
     lower = np.clip(np.array(center.min(axis=0).min(axis=0) * ratio, dtype=np.uint8), 0, 255)
