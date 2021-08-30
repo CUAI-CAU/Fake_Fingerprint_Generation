@@ -38,13 +38,12 @@ def check_linear(landmark, i):
     else:
          return False 
 
-def main():
-    base_dir = sys.argv[1]
-    try:
-        save_dir = sys.argv[2]
-    except:
+def get_fingertip(base_dir, save_dir=None):
+    if save_dir == None:
         save_dir = os.path.join(base_dir, "result")
 
+    result = dict()
+    
     if os.path.isdir(base_dir):
         img_list = os.listdir(base_dir)
         img_list = [os.path.join(base_dir, i) for i in img_list if os.path.isfile(os.path.join(base_dir, i))]
@@ -70,8 +69,6 @@ def main():
 
             HAND = results.multi_handedness[i].classification[0].label
             print(name, HAND)
-            print(hand_landmarks.landmark[7])
-            print()
             landmarks = [4, 8, 12, 16, 20]
 
             x_var = abs(hand_landmarks.landmark[7].x - hand_landmarks.landmark[8].x)*image_width
@@ -84,9 +81,19 @@ def main():
                     continue
                 X =  int(hand_landmarks.landmark[l].x * image_width)
                 Y = int(hand_landmarks.landmark[l].y * image_hight)
-                index_FT = cv2.flip(image,1 )[Y-pm:Y+pm, X-pm:X+pm]
+                top_left = [X+pm, Y+pm]
+                down_right = [X-pm, Y-pm]
+
+                index_FT = cv2.flip(image,1 )[down_right[1]:top_left[1], down_right[0]:top_left[1]]
                 tip = cv2.resize(index_FT, (256,256))
-                cv2.imwrite(os.path.join(save_dir,  str(l)+name), tip)
+                # cv2.imwrite(os.path.join(save_dir,  str(l)+name+ "_"+str() + "_"), tip)
+
+                try :
+                    result[name].append((tip, top_left, down_right))
+                except:
+                    print(result)
+                    result[name] = [(tip, top_left, down_right)]
+    return result
 
 if __name__ == "__main__":
     main()
