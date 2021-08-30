@@ -43,4 +43,4 @@
 
     [GitHub - JiahuiYu/generative_inpainting: DeepFill v1/v2 with Contextual Attention and Gated Convolution, CVPR 2018, and ICCV 2019 Oral](https://github.com/JiahuiYu/generative_inpainting)
 
-
+    [EdgeConnect: Generative Image Inpainting with Adversarial Edge Learning](https://github.com/knazeri/edge-connect)
