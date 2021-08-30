@@ -15,23 +15,26 @@
 
 # 진행상황
 
-[06-22(주제 선정)](https://www.notion.so/06-22-d54639c54f7f478ab5e7ed08615274a8)
+[06-22(주제 선정)](https://github.com/CUAI-CAU/Fake_Fingerprint_Generation/tree/main/MD/06-22.md)
 
-[06-29(데이터 수집)](https://www.notion.so/06-29-80bd136d887b4b5b85f39cce8ac8bfe7)
+[06-29(데이터 수집)](https://github.com/CUAI-CAU/Fake_Fingerprint_Generation/tree/main/MD/06-29.md)
 
-[07-08(데이터 수집)](https://www.notion.so/07-08-f2c1a7472fde40fc98f070b135e641a7)
+[07-08(데이터 수집)](https://github.com/CUAI-CAU/Fake_Fingerprint_Generation/tree/main/MD/07-08.md)
 
-[07-13(모델 자료조사)](https://www.notion.so/07-13-e4e4759dcebe4507991400d1eafddd67)
+[07-13(모델 자료조사)](https://github.com/CUAI-CAU/Fake_Fingerprint_Generation/tree/main/MD/07-13.md)
 
-[07-20](https://www.notion.so/07-20-29662c2712014b67852f4278f5aa4449)
+[07-20](https://github.com/CUAI-CAU/Fake_Fingerprint_Generation/tree/main/MD/07-20.md)
 
-[08-03](https://www.notion.so/08-03-d101c7542d454711b7385c777257b374)
+[08-03](https://github.com/CUAI-CAU/Fake_Fingerprint_Generation/tree/main/MD/08-03.md)
 
-[08-10](https://www.notion.so/08-10-af6a1a4871a0429fb9e0e2b34888e5ac)
+[08-10](https://github.com/CUAI-CAU/Fake_Fingerprint_Generation/tree/main/MD/08-10.md)
 
-[08/17](https://www.notion.so/08-17-bcb0c3406029480baf197bf810f1b5e3)
+[08/17](https://github.com/CUAI-CAU/Fake_Fingerprint_Generation/tree/main/MD/08-17.md)
 
-[08/24](https://www.notion.so/08-24-5ae39c425187479593166bd3eb8466d6)
+[08/24](https://github.com/CUAI-CAU/Fake_Fingerprint_Generation/tree/main/MD/08-24.md)
+
+[08/30](https://github.com/CUAI-CAU/Fake_Fingerprint_Generation/tree/main/MD/08-30.md)
+
 
 ## 개발환경
 
