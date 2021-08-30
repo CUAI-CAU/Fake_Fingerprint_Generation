@@ -1,4 +1,4 @@
-## EdgeConnect: Generative Image Inpainting with Adversarial Edge Learning
+# EdgeConnect: Generative Image Inpainting with Adversarial Edge Learning
 ------------
 Paper : [https://arxiv.org/abs/1901.00212](https://arxiv.org/abs/1901.00212)
 
