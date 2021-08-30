@@ -45,10 +45,12 @@ def main():
     except:
         save_dir = os.path.join(base_dir, "result")
 
-    img_list = os.listdir(base_dir)
-    img_list = [os.path.join(base_dir, i) for i in img_list if os.path.isfile(os.path.join(base_dir, i))]
-    images = {dir.split('/')[-1]: cv2.imread(dir) for dir in img_list}
-
+    if os.path.isdir(base_dir):
+        img_list = os.listdir(base_dir)
+        img_list = [os.path.join(base_dir, i) for i in img_list if os.path.isfile(os.path.join(base_dir, i))]
+        images = {dir.split('/')[-1]: cv2.imread(dir) for dir in img_list}
+    else:
+        images = {base_dir.split('/')[-1]: cv2.imread(base_dir)}
     for name, image in images.items():
     # Convert the BGR image to RGB, flip the image around y-axis for correct 
     # handedness output and process it with MediaPipe Hands.
