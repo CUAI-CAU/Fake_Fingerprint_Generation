@@ -117,3 +117,12 @@ def Enhancement(fingerprint):
 
     return enhanced
 
+def extract_edge(img):
+    copy = img.copy()
+    effect = cv2.convertScaleAbs(copy, alpha=0.8, beta=25)
+    gray = cv2.cvtColor(effect, cv2.COLOR_RGB2GRAY)
+    equ = cv2.equalizeHist(gray)
+    norm = cv2.normalize(equ, None, 0, 256, cv2.NORM_MINMAX)
+    result = cv2.adaptiveThreshold(norm, 255, cv2.ADAPTIVE_THRESH_GAUSSIAN_C, cv2.THRESH_BINARY, 15, 2)
+
+    return result
