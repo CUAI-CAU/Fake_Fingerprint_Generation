@@ -1,7 +1,4 @@
-# Fake_Fingerprint_Generation
-
-
-# 적대적 생성 모델을 활용한 사용자 생체 정보 보안 프로그램
+# Fake_Fingerprint_Generation (적대적 생성 모델을 활용한 사용자 생체 정보 보안 프로그램)
 
 ## 개발 배경
 
