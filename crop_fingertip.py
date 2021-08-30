@@ -86,3 +86,5 @@ def main():
                 tip = cv2.resize(index_FT, (256,256))
                 cv2.imwrite(os.path.join(save_dir,  str(l)+name), tip)
 
+if __name__ == "__main__":
+    main()
