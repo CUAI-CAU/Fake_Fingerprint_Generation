@@ -38,11 +38,8 @@ def check_linear(landmark, i):
     else:
          return False 
 
-def main():
-    base_dir = sys.argv[1]
-    try:
-        save_dir = sys.argv[2]
-    except:
+def get_fingertip(base_dir, save_dir=None):
+    if save_dir == None:
         save_dir = os.path.join(base_dir, "result")
 
     result = dict()
