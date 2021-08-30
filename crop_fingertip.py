@@ -91,9 +91,9 @@ def main():
                 tip = cv2.resize(index_FT, (256,256))
                 # cv2.imwrite(os.path.join(save_dir,  str(l)+name+ "_"+str() + "_"), tip)
 
-                if result[name]:
+                try :
                     result[name].append((tip, top_left, down_right))
-                else:
+                except:
                     result[name] = [(tip, top_left, down_right)]
     return result
 
