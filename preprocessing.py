@@ -126,3 +126,4 @@ def extract_edge(img):
     result = cv2.adaptiveThreshold(norm, 255, cv2.ADAPTIVE_THRESH_GAUSSIAN_C, cv2.THRESH_BINARY, 15, 2)
 
     return result
+
