@@ -84,7 +84,7 @@ def get_fingertip(base_dir, save_dir=None):
                 top_left = [X+pm, Y+pm]
                 down_right = [X-pm, Y-pm]
 
-                index_FT = cv2.flip(image,1 )[down_right[1]:top_left[1], down_right[0]:top_left[1]]
+                index_FT = cv2.flip(image,1 )[down_right[1]:top_left[1], down_right[0]:top_left[0]]
                 tip = cv2.resize(index_FT, (256,256))
                 # cv2.imwrite(os.path.join(save_dir,  str(l)+name+ "_"+str() + "_"), tip)
 
