@@ -16,7 +16,7 @@
 [Presentation](https://github.com/CUAI-CAU/Fake_Fingerprint_Generation/tree/main/Final/presentation.mp4) | [Paper](https://github.com/CUAI-CAU/Fake_Fingerprint_Generation/tree/main/Final/FakeFingerPrintGeneration_paper.docx) | [PPT](https://github.com/CUAI-CAU/Fake_Fingerprint_Generation/tree/main/Final/CUAI-최종-발표.pptx)
 
 # Model
------------------------------------------------------------------------------------------------------------------
+
 ## 모델 Pipeline
 
 <p align="center">
