@@ -41,6 +41,12 @@
 ### Inpainting Result
 ![inpainting_result](./edge-connect/examples/Fingerprint/Inpaint_result.png)
 
+![original_image](./edge-connect/examples/Fingerprint/Inpaint_ori.png)
+![mask](./edge-connect/examples/Fingerprint/Inpaint_mask.png)
+![edge](./edge-connect/examples/Fingerprint/Inpaint_edge.png)
+![inpainting_result](./edge-connect/examples/Fingerprint/Inpaint_result.png)
+
+
 # 진행상황
 
 [06-22(주제 선정)](https://github.com/CUAI-CAU/Fake_Fingerprint_Generation/tree/main/MD/06-22.md)
