@@ -28,10 +28,10 @@
 </p>
 
 ## Fingerprint Inpainting result
-![original_image](./edge-connect/examples/Fingerprint/Inpaint_ori.png)
-![mask](./edge-connect/examples/Fingerprint/Inpaint_mask.png)
-![edge](./edge-connect/examples/Fingerprint/Inpaint_edge.png)
-![inpainting_result](./edge-connect/examples/Fingerprint/Inpaint_result.png)
+![original_image](./edge-connect/examples/Fingerprint/Inpaint_ori.png){: width="250" height="250"}
+![mask](./edge-connect/examples/Fingerprint/Inpaint_mask.png){: width="250" height="250"}
+![edge](./edge-connect/examples/Fingerprint/Inpaint_edge.png){: width="250" height="250"}
+![inpainting_result](./edge-connect/examples/Fingerprint/Inpaint_result.png){: width="250" height="250"}
 
 
 ### Original Image
