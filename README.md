@@ -15,7 +15,7 @@
 
 [발표영상](https://github.com/CUAI-CAU/Fake_Fingerprint_Generation/tree/main/Final/presentation.mp4)
 
-[소논문](https://github.com/CUAI-CAU/Fake_Fingerprint_Generation/tree/main/Final/paper.docx)
+[소논문](https://github.com/CUAI-CAU/Fake_Fingerprint_Generation/tree/main/Final/FakeFingerPrintGeneration_paper.docx)
 
 [PPT](https://github.com/CUAI-CAU/Fake_Fingerprint_Generation/tree/main/Final/CUAI-최종-발표.pptx)
 
@@ -28,10 +28,13 @@
 </p>
 
 ## Fingerprint Inpainting result
-![original_image](./edge-connect/examples/Fingerprint/Inpaint_ori.png){: width="250" height="250"}
-![mask](./edge-connect/examples/Fingerprint/Inpaint_mask.png){: width="250" height="250"}
-![edge](./edge-connect/examples/Fingerprint/Inpaint_edge.png){: width="250" height="250"}
-![inpainting_result](./edge-connect/examples/Fingerprint/Inpaint_result.png){: width="250" height="250"}
+
+<p align="center">
+  <img width="250" src="./edge-connect/examples/Fingerprint/Inpaint_ori.png">
+  <img width="250" src="./edge-connect/examples/Fingerprint/Inpaint_mask.png">
+  <img width="250" src="./edge-connect/examples/Fingerprint/Inpaint_edge.png">
+  <img width="250" src="./edge-connect/examples/Fingerprint/Inpaint_result.png">
+</p>
 
 
 ### Original Image
