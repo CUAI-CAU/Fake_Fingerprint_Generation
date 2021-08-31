@@ -10,6 +10,9 @@
 
 [팀원정보](https://github.com/CUAI-CAU/Fake_Fingerprint_Generation/tree/main/MD/팀원정보.md)
 
+# 모델 Pipeline
+![pipeline](https://user-images.githubusercontent.com/58729081/131458134-82cb4e80-e63a-4282-8191-2b1e8b29253d.png)
+
 # 최종 결과물
 
 [발표영상](https://github.com/CUAI-CAU/Fake_Fingerprint_Generation/tree/main/Final/presentation.mp4)
@@ -18,14 +21,6 @@
 
 [PPT](https://github.com/CUAI-CAU/Fake_Fingerprint_Generation/tree/main/Final/CUAI-최종-발표.pptx)
 
-## model
-
-### Inpainting model train
-![train batch image](./edge-connect/checkpoints/samples/inpaint/2016000.png)
-
-### Inpainting model test
-
-![model test result](./edge-connect/checkpoints/results_test/0.jpg)
 
 # 진행상황
 
