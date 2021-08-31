@@ -33,7 +33,7 @@
   <img width="200" src="./edge-connect/examples/Fingerprint/Inpaint_result.png">
 </p>
 
-
+---------------------------------------------------------------------------------
 ### Original Image
 ![original_image](./edge-connect/examples/Fingerprint/Inpaint_ori.png)
 
