@@ -34,17 +34,11 @@
 </p>
 
 ---------------------------------------------------------------------------------
-#### Original Image
-![original_image](./edge-connect/examples/Fingerprint/Inpaint_ori.png)
-
-#### Mask
-![mask](./edge-connect/examples/Fingerprint/Inpaint_mask.png)
-
-#### Fingerprint Edge
-![edge](./edge-connect/examples/Fingerprint/Inpaint_edge.png)
-
-#### Inpainting Result
-![inpainting_result](./edge-connect/examples/Fingerprint/Inpaint_result.png)
+#### Input & Result
+<p align="center">
+  <img width="250" src="./edge-connect/examples/Fingerprint/Inpaint_ori.png">
+  <img width="250" src="./edge-connect/examples/Fingerprint/Inpaint_result.png">
+</p>  
 
 
 
