@@ -25,7 +25,7 @@
 
 ## Fingerprint Inpainting result
 
-# 전체 과정
+### 전체 과정
 <p align="center">
   <img width="200" src="./edge-connect/examples/Fingerprint/Inpaint_ori.png">
   <img width="200" src="./edge-connect/examples/Fingerprint/Inpaint_mask.png">
