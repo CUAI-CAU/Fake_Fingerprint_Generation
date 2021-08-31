@@ -1,4 +1,6 @@
-# Fake_Fingerprint_Generation (적대적 생성 모델을 활용한 사용자 생체 정보 보안 프로그램)
+# Fake_Fingerprint_Generation (적대적 생성 모델을 활용한 사용자 생체 정보 보안 프로그램) 
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FCUAI-CAU%2FFake_Fingerprint_Generation%2Fedit%2Fmain%2FREADME.md&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 ## 개발 배경
 
@@ -35,13 +37,10 @@
 
 ---------------------------------------------------------------------------------
 ### Input & Result
-
 <p align="center">
-  <img width="300" src="./edge-connect/examples/Fingerprint/Inpaint_ori.png">
-  <img width="300" src="./edge-connect/examples/Fingerprint/Inpaint_result.png">
+  <img width="300" src="https://user-images.githubusercontent.com/58729081/131466216-3c7ffa27-9b2f-4c5a-8743-6e18729483c5.png">
+  <img width="300" src="https://user-images.githubusercontent.com/58729081/131466265-3c11af8d-dbf8-479c-b250-64ad512770f7.png">
 </p>  
-
-
 
 
 # 진행상황
