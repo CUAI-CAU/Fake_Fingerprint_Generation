@@ -30,7 +30,7 @@
 
 ## Inpainting model test
 ------------
-![model test result](./edge-connect/checkpoints/results_test/0.jpg)
+![model test result](./edge-connect/checkpoints/results_test/1.jpg)
 
 
 # 진행상황
