@@ -26,11 +26,11 @@
 
 ## Inpainting model train
 ------------
-![train batch image](https://github.com/CUAI-CAU/Fake_Fingerprint_Generation/tree/main/edge-connect/checkpoints/samples/inpaint/2016000.png)
+![train batch image](./edge-connect/checkpoints/samples/inpaint/2016000.png)
 
 ## Inpainting model test
 ------------
-![model test result](https://github.com/CUAI-CAU/Fake_Fingerprint_Generation/tree/main/edge-connect/checkpoints/results_test/0.jpg)
+![model test result](./edge-connect/checkpoints/results_test/0.jpg)
 
 
 # 진행상황
