@@ -24,14 +24,6 @@
 ## 모델 Pipeline
 ![pipeline](https://user-images.githubusercontent.com/58729081/131458134-82cb4e80-e63a-4282-8191-2b1e8b29253d.png)
 
-## Inpainting model train
-------------
-![train batch image](./edge-connect/checkpoints/samples/inpaint/2016000.png)
-
-## Inpainting model test
-------------
-![model test result](./edge-connect/checkpoints/results_test/1.jpg)
-
 
 # 진행상황
 
