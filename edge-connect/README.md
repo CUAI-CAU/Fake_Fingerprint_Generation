@@ -9,16 +9,9 @@ We use pre-trained Inpaint model trained with [CelebA](http://mmlab.ie.cuhk.edu.
 
 ## Fingerprint Inpainting result
 ------------
-
-### Original Image
-![original_image](./examples/Fingerprint/Inpaint_ori.png)
-
-### Mask
-![mask](./examples/Fingerprint/Inpaint_mask.png)
-
-### Fingerprint Edge
-![edge](./examples/Fingerprint/Inpaint_edge.png)
-
-### Inpainting Result
-![inpainting_result](./examples/Fingerprint/Inpaint_result.png)
-
+<p align="center">
+  <img width="200" src="./examples/Fingerprint/Inpaint_ori.png">
+  <img width="200" src="./examples/Fingerprint/Inpaint_mask.png">
+  <img width="200" src="./examples/Fingerprint/Inpaint_edge.png">
+  <img width="200" src="./examples/Fingerprint/Inpaint_result.png">
+</p>
