@@ -28,6 +28,11 @@
 </p>
 
 ## Fingerprint Inpainting result
+![original_image](./edge-connect/examples/Fingerprint/Inpaint_ori.png)
+![mask](./edge-connect/examples/Fingerprint/Inpaint_mask.png)
+![edge](./edge-connect/examples/Fingerprint/Inpaint_edge.png)
+![inpainting_result](./edge-connect/examples/Fingerprint/Inpaint_result.png)
+
 
 ### Original Image
 ![original_image](./edge-connect/examples/Fingerprint/Inpaint_ori.png)
@@ -41,10 +46,7 @@
 ### Inpainting Result
 ![inpainting_result](./edge-connect/examples/Fingerprint/Inpaint_result.png)
 
-![original_image](./edge-connect/examples/Fingerprint/Inpaint_ori.png)
-![mask](./edge-connect/examples/Fingerprint/Inpaint_mask.png)
-![edge](./edge-connect/examples/Fingerprint/Inpaint_edge.png)
-![inpainting_result](./edge-connect/examples/Fingerprint/Inpaint_result.png)
+
 
 
 # 진행상황
