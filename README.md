@@ -16,7 +16,7 @@
 
 [소논문](https://github.com/CUAI-CAU/Fake_Fingerprint_Generation/tree/main/Final/paper.docx)
 
-[PPT](https://github.com/CUAI-CAU/Fake_Fingerprint_Generation/tree/main/Final/ppt.pptx)
+[PPT](https://github.com/CUAI-CAU/Fake_Fingerprint_Generation/tree/main/Final/CUAI-최종-발표.pptx)
 
 
 # 진행상황
