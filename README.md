@@ -30,13 +30,13 @@
 ![original_image](./examples/Fingerprint/Inpaint_ori.png)
 
 ### Mask
-![mask](https://github.com/CUAI-CAU/Fake_Fingerprint_Generation/tree/main/edge-connect/examples/Fingerprint/Inpaint_mask.png)
+![mask](./edge-connect/examples/Fingerprint/Inpaint_mask.png)
 
 ### Fingerprint Edge
-![edge](https://github.com/CUAI-CAU/Fake_Fingerprint_Generation/tree/main/edge-connect/examples/Fingerprint/Inpaint_edge.png)
+![edge](./edge-connect/examples/Fingerprint/Inpaint_edge.png)
 
 ### Inpainting Result
-![inpainting_result](https://github.com/CUAI-CAU/Fake_Fingerprint_Generation/tree/main/edge-connect/examples/Fingerprint/Inpaint_result.png)
+![inpainting_result](./edge-connect/examples/Fingerprint/Inpaint_result.png)
 
 # 진행상황
 
