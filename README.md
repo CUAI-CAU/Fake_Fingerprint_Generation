@@ -22,6 +22,11 @@
 # Model
 
 ## 모델 Pipeline
+
+<p align="center">
+  <img width="460" src="https://user-images.githubusercontent.com/58729081/131458134-82cb4e80-e63a-4282-8191-2b1e8b29253d.png">
+</p>
+
 ![pipeline](https://user-images.githubusercontent.com/58729081/131458134-82cb4e80-e63a-4282-8191-2b1e8b29253d.png)
 
 ## Fingerprint Inpainting result
