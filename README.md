@@ -10,6 +10,13 @@
 
 [팀원정보](https://github.com/CUAI-CAU/Fake_Fingerprint_Generation/tree/main/MD/팀원정보.md)
 
+# 최종 결과물
+
+[발표영상](https://github.com/CUAI-CAU/Fake_Fingerprint_Generation/tree/main/Final/presentation.mp4)
+[소논문](https://github.com/CUAI-CAU/Fake_Fingerprint_Generation/tree/main/Final/paper.docx)
+[PPT](https://github.com/CUAI-CAU/Fake_Fingerprint_Generation/tree/main/Final/ppt.pptx)
+
+
 # 진행상황
 
 [06-22(주제 선정)](https://github.com/CUAI-CAU/Fake_Fingerprint_Generation/tree/main/MD/06-22.md)
