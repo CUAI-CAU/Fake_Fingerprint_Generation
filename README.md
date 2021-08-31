@@ -34,8 +34,9 @@
 </p>
 
 ---------------------------------------------------------------------------------
-#### Input & Result
 <p align="center">
+
+### Input & Result
   <img width="250" src="./edge-connect/examples/Fingerprint/Inpaint_ori.png">
   <img width="250" src="./edge-connect/examples/Fingerprint/Inpaint_result.png">
 </p>  
