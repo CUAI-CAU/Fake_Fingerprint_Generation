@@ -13,7 +13,9 @@
 # 최종 결과물
 
 [발표영상](https://github.com/CUAI-CAU/Fake_Fingerprint_Generation/tree/main/Final/presentation.mp4)
+
 [소논문](https://github.com/CUAI-CAU/Fake_Fingerprint_Generation/tree/main/Final/paper.docx)
+
 [PPT](https://github.com/CUAI-CAU/Fake_Fingerprint_Generation/tree/main/Final/ppt.pptx)
 
 
