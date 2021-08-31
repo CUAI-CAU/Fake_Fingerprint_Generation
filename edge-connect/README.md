@@ -13,7 +13,7 @@ We use pre-trained Inpaint model trained with [CelebA](http://mmlab.ie.cuhk.edu.
 
 ## Inpainting model test
 ------------
-![model test result](./checkpoints/results_test/0.png)
+![model test result](./checkpoints/results_test/0.jpg)
 
 ## Fingerprint Inpainting result
 ------------
