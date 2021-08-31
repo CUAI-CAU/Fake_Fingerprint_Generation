@@ -18,6 +18,14 @@
 
 [PPT](https://github.com/CUAI-CAU/Fake_Fingerprint_Generation/tree/main/Final/CUAI-최종-발표.pptx)
 
+## model
+
+### Inpainting model train
+![train batch image](./checkpoints/samples/inpaint/2016000.png)
+
+### Inpainting model test
+
+![model test result](./checkpoints/results_test/0.jpg)
 
 # 진행상황
 
