@@ -24,14 +24,19 @@
 ## 모델 Pipeline
 ![pipeline](https://user-images.githubusercontent.com/58729081/131458134-82cb4e80-e63a-4282-8191-2b1e8b29253d.png)
 
-## Inpainting model train
-------------
-![train batch image](./edge-connect/checkpoints/samples/inpaint/2016000.png)
+## Fingerprint Inpainting result
 
-## Inpainting model test
-------------
-![model test result](./edge-connect/checkpoints/results_test/1.jpg)
+### Original Image
+![original_image](./examples/Fingerprint/Inpaint_ori.png)
 
+### Mask
+![mask](./examples/Fingerprint/Inpaint_mask.png)
+
+### Fingerprint Edge
+![edge](./examples/Fingerprint/Inpaint_edge.png)
+
+### Inpainting Result
+![inpainting_result](./examples/Fingerprint/Inpaint_result.png)
 
 # 진행상황
 
