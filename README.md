@@ -38,11 +38,9 @@
 ---------------------------------------------------------------------------------
 ### Input & Result
 <p align="center">
-  <img width="300" src="./edge-connect/examples/Fingerprint/Inpaint_ori.png">
-  <img width="300" src="./edge-connect/examples/Fingerprint/Inpaint_result.png">
+  <img width="300" src="https://user-images.githubusercontent.com/58729081/131466216-3c7ffa27-9b2f-4c5a-8743-6e18729483c5.png">
+  <img width="300" src="https://user-images.githubusercontent.com/58729081/131466265-3c11af8d-dbf8-479c-b250-64ad512770f7.png">
 </p>  
-
-
 
 
 # 진행상황
