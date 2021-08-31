@@ -7,14 +7,6 @@ Code : [https://github.com/knazeri/edge-connect](https://github.com/knazeri/edge
 ### Introduction
 We use pre-trained Inpaint model trained with [CelebA](http://mmlab.ie.cuhk.edu.hk/projects/CelebA.html) data. The pretrained-model, which trained 2M iterations with CelebA data, was trained 1 epoch with fingerprint data.
 
-## Inpainting model train
-------------
-![train batch image](./checkpoints/samples/inpaint/2016000.png)
-
-## Inpainting model test
-------------
-![model test result](./checkpoints/results_test/0.jpg)
-
 ## Fingerprint Inpainting result
 ------------
 
