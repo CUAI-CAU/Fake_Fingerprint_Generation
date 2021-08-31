@@ -27,7 +27,7 @@
 ## Fingerprint Inpainting result
 
 ### Original Image
-![original_image](./examples/Fingerprint/Inpaint_ori.png)
+![original_image](./edge-connect/examples/Fingerprint/Inpaint_ori.png)
 
 ### Mask
 ![mask](./edge-connect/examples/Fingerprint/Inpaint_mask.png)
