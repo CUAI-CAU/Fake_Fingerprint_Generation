@@ -8,17 +8,17 @@ from util.crop_fingertip import *
 
 
 def main():
-    # img_dir = sys.argv[1]
-    img_dir = "./내손을잡아요/modified.png"
+    img_dir = sys.argv[1]
+    try:
+        output_dir = sys.argv[2]
+    except:
+        output_dir = os.path.join(img_dir, "result")
 
     finger_tips = get_fingertip(img_dir)
 
     if os.path.isfile(img_dir):
-        print("here")
-        
         original_img = cv2.imread(img_dir)
 
-    print(finger_tips)
     for name in finger_tips.keys():
         items = finger_tips[name]
         count = 0
@@ -36,9 +36,6 @@ def main():
             edge = extract_edge(finger)
             enhanced = Enhancement(edge, mask)
 
-            # img_name = name.split(".")[0] + str(count) + ".png"
-            output_dir = "./test/output/"
-            # count += 1
             img_name = "img.png"
 
             test_dir = "./test"
@@ -47,11 +44,10 @@ def main():
             cv2.imwrite("./test/mask.png", mask)
             cv2.imwrite("./test/edge.png", enhanced)
 
-            os.system(
-                "python test.py --model 2 --checkpoints ./edge-connect/checkpoints  --input {test_dir}/{img_name}  --mask {test_dir}/mask.png --edge {test_dir}/edge.png  --output {output_dir}".format(
-                    output_dir=output_dir, img_name=img_name, test_dir=test_dir
-                )
+            command = "python edge-connect/test.py --model 2 --checkpoints ./edge-connect/checkpoints  --input {test_dir}/{img_name}  --mask {test_dir}/mask.png --edge {test_dir}/edge.png  --output {output_dir}".format(
+                output_dir=output_dir, img_name=img_name, test_dir=test_dir
             )
+            os.system(command)
 
             changed = cv2.imread(os.path.join(output_dir, img_name))
 
