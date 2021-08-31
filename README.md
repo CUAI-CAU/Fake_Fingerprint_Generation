@@ -10,8 +10,6 @@
 
 [팀원정보](https://github.com/CUAI-CAU/Fake_Fingerprint_Generation/tree/main/MD/팀원정보.md)
 
-# 모델 Pipeline
-![pipeline](https://user-images.githubusercontent.com/58729081/131458134-82cb4e80-e63a-4282-8191-2b1e8b29253d.png)
 
 # 최종 결과물
 
