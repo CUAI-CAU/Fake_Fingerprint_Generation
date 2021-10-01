@@ -38,8 +38,8 @@
 ---------------------------------------------------------------------------------
 ### Input & Result
 <p align="center">
-  <img width="350" src="./holdmyhand/input_revised.png">
-  <img width="350" src="./holdmyhand/result_revised.png">
+  <img width="450" src="./holdmyhand/input_revised.png">
+  <img width="450" src="./holdmyhand/result_revised.png">
 </p>  
 
 
